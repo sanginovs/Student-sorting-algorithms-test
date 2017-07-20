@@ -1,6 +1,6 @@
 # Student Sorting Algorithms Test
 
-# Description
+## Description
 
 This program generates a file with 100, 500, 1000, 5000 student objects 
 and the files are used as an input to test three sorting algorithms Selection, 
